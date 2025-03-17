@@ -2,7 +2,10 @@
 
 Este projeto contém um formulário de login simples com um vídeo de fundo, construído usando HTML e CSS.
 
-![image](https://github.com/user-attachments/assets/b2761833-7645-4ed3-a890-fa6926782565)
+
+https://github.com/user-attachments/assets/f4f0d6b6-ab41-4487-b871-cdea3a326039
+
+
 
 
 ## Funcionalidades
